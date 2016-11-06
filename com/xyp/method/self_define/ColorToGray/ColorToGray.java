@@ -1,4 +1,4 @@
-package com.xyp.method.selef_define.ColorToGray;
+package com.xyp.method.self_define.ColorToGray;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;
