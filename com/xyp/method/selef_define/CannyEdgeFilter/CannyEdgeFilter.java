@@ -1,4 +1,4 @@
-package com.xyp.method.selef_define.CannyEdgeFilter;
+package com.xyp.method.self_define.CannyEdgeFilter;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
