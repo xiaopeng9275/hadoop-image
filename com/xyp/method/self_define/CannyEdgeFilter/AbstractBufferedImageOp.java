@@ -1,4 +1,4 @@
-package com.xyp.method.selef_define.CannyEdgeFilter;
+package com.xyp.method.self_define.CannyEdgeFilter;
 
 import java.awt.Rectangle;
 import java.awt.RenderingHints;
