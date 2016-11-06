@@ -1,4 +1,4 @@
-package com.xyp.method.selef_define.NarrowImage;
+package com.xyp.method.self_define.NarrowImage;
 
 import java.awt.image.BufferedImage;
 
